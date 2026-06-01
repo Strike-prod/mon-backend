@@ -1,4 +1,4 @@
-// API Express - BIONDI-KEDENG-EMMANUEL
+// API Express - Strike-prod
 const express = require('express');
 const app = express();
 
